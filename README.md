@@ -30,5 +30,5 @@ This repository is designed to:
 To get started with the project:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-oladapoa49/ayomide-blessing.git
+   bash
+   git clone https://github.com/oladapoa49/ayomide-blessing.git
